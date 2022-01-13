@@ -36,7 +36,7 @@ require (
 	github.com/jamiealquiza/envy v1.1.0
 	github.com/jinzhu/copier v0.3.4
 	github.com/mandelsoft/vfs v0.0.0-20210530103237-5249dc39ce91
-	github.com/onsi/gomega v1.16.0
+	github.com/onsi/gomega v1.17.0
 	github.com/pkg/errors v0.9.1
 	github.com/satori/go.uuid v1.2.0
 	github.com/shurcooL/githubv4 v0.0.0-20211117020012-5800b9de5b8b
@@ -46,7 +46,6 @@ require (
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
-	github.com/spf13/viper v1.8.1
 	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/gjson v1.9.3
 	github.com/vrischmann/envconfig v1.3.0
