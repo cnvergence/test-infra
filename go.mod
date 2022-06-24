@@ -17,7 +17,7 @@ replace (
 )
 
 require (
-	cloud.google.com/go/bigquery v1.32.0
+	cloud.google.com/go/bigquery v1.34.1
 	cloud.google.com/go/firestore v1.6.1
 	cloud.google.com/go/functions v1.3.0
 	cloud.google.com/go/logging v1.4.2
@@ -60,9 +60,9 @@ require (
 	github.com/tidwall/gjson v1.14.1
 	github.com/vrischmann/envconfig v1.3.0
 	go.uber.org/zap v1.21.0
-	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
-	golang.org/x/oauth2 v0.0.0-20220524215830-622c5d57e401
-	google.golang.org/api v0.83.0
+	golang.org/x/net v0.0.0-20220617184016-355a448f1bc9
+	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb
+	google.golang.org/api v0.85.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.22.2
