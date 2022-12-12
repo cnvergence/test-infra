@@ -30,7 +30,7 @@ require (
 	github.com/containerd/containerd v1.6.6
 	github.com/containerd/typeurl v1.0.2
 	github.com/forestgiant/sliceutil v0.0.0-20160425183142-94783f95db6c
-	github.com/fsouza/go-dockerclient v1.8.1
+	github.com/fsouza/go-dockerclient v1.9.0
 	github.com/gardener/component-cli v0.43.0
 	github.com/gardener/component-spec/bindings-go v0.0.65
 	github.com/ghodss/yaml v1.0.0
@@ -60,7 +60,7 @@ require (
 	github.com/tidwall/gjson v1.14.1
 	github.com/vrischmann/envconfig v1.3.0
 	go.uber.org/zap v1.21.0
-	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2
 	google.golang.org/api v0.89.0
 	gopkg.in/yaml.v2 v2.4.0
