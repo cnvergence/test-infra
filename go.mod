@@ -26,11 +26,13 @@ require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/sprig v2.22.0+incompatible
+	github.com/Microsoft/hcsshim v0.9.3 // indirect
 	github.com/cloudevents/sdk-go/v2 v2.10.1
-	github.com/containerd/containerd v1.6.6
+	github.com/containerd/cgroups v1.0.3 // indirect
+	github.com/containerd/containerd v1.6.14
 	github.com/containerd/typeurl v1.0.2
 	github.com/forestgiant/sliceutil v0.0.0-20160425183142-94783f95db6c
-	github.com/fsouza/go-dockerclient v1.8.1
+	github.com/fsouza/go-dockerclient v1.9.4
 	github.com/gardener/component-cli v0.43.0
 	github.com/gardener/component-spec/bindings-go v0.0.65
 	github.com/ghodss/yaml v1.0.0
@@ -45,6 +47,7 @@ require (
 	github.com/jamiealquiza/envy v1.1.0
 	github.com/jinzhu/copier v0.3.5
 	github.com/mandelsoft/vfs v0.0.0-20210530103237-5249dc39ce91
+	github.com/moby/sys/mountinfo v0.6.2 // indirect
 	github.com/onsi/gomega v1.20.0
 	github.com/pkg/errors v0.9.1
 	github.com/satori/go.uuid v1.2.0
@@ -60,7 +63,7 @@ require (
 	github.com/tidwall/gjson v1.14.1
 	github.com/vrischmann/envconfig v1.3.0
 	go.uber.org/zap v1.21.0
-	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2
 	google.golang.org/api v0.89.0
 	gopkg.in/yaml.v2 v2.4.0
